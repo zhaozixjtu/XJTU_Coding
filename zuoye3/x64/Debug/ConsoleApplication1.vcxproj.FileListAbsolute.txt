@@ -1,0 +1,2 @@
+E:\VSproject\class\2\ConsoleApplication1\x64\Debug\zuoye2.exe
+E:\VSproject\class\2\zuoye3\x64\Debug\zuoye3.exe
